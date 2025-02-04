@@ -1,1 +1,0 @@
-unregister-scheduledtask -taskname Restart-Spooler-hourly -confirm:$false

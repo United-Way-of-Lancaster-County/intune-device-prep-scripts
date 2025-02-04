@@ -1,1 +1,0 @@
-﻿Add-Printer -ConnectionName \\printserver\printername

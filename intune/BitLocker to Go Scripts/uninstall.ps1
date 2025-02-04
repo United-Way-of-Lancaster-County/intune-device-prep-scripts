@@ -1,1 +1,0 @@
-unregister-scheduledtask -taskname BL2GOEscrowtoAAD -confirm:$false

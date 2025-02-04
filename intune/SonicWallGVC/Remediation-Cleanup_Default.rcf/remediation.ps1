@@ -1,1 +1,0 @@
-remove-item "C:\Program Files\sonicwall\Global VPN Client\default.rcf" -Force
